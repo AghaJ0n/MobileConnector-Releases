@@ -1,6 +1,7 @@
 {
-  "version": "4.8.9",
-  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.9/MobileConnector-Setup-v4.8.9.exe",
-  "sha256": "74ef70829ff5dae935e2c76d51695179f638f3831c23c2ec240eacf0582ac46c",
-  "notes": "Multi-device Wi-Fi selection and GitHub update support. Driver Bank v1.6.0."
+  "version": "4.8.11",
+  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.11/MobileConnector-Setup-v4.8.11.exe",
+  "sha256": "f5a78b1111ac8a90271cc322ddb2b4b2e4fd8e203c9a572d29ece9e75823e552",
+  "notes": "Visible update progress, integrity verification, rollback messaging, and component-based incremental updates. Driver Bank v1.6.0.",
+  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.11/MobileConnector-UpdateManifest-v4.8.11.json"
 }
