@@ -1,7 +1,7 @@
 {
-  "version": "4.8.14",
-  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.14/MobileConnector-Setup-v4.8.14.exe",
-  "sha256": "bddcaae991f7f93d87f22cc58009604236c92cc44ee388b11cfae63bb042a11e",
-  "notes": "Unified application/taskbar/shortcut icon and updater file-lock repair. Incremental update channel remains enabled. Driver Bank v1.6.0.",
-  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.14/MobileConnector-UpdateManifest-v4.8.14.json"
+  "version": "4.8.15",
+  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.15/MobileConnector-Setup-v4.8.15.exe",
+  "sha256": "82ffb9ed434ae62ac482a4c42591f94ee11eed79e00a2644675561c361629fd3",
+  "notes": "Direct Settings access on the Smart Connect home screen, with incremental updates, visible progress, integrity verification, rollback support and unified application icon. Driver Bank v1.6.0.",
+  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.15/MobileConnector-UpdateManifest-v4.8.15.json"
 }
