@@ -1,7 +1,7 @@
 {
-  "version": "4.8.15",
-  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.15/MobileConnector-Setup-v4.8.15.exe",
-  "sha256": "82ffb9ed434ae62ac482a4c42591f94ee11eed79e00a2644675561c361629fd3",
-  "notes": "Direct Settings access on the Smart Connect home screen, with incremental updates, visible progress, integrity verification, rollback support and unified application icon. Driver Bank v1.6.0.",
-  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.15/MobileConnector-UpdateManifest-v4.8.15.json"
+  "version": "4.8.16",
+  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.16/MobileConnector-Setup-v4.8.16.exe",
+  "sha256": "8fb26bb08ec85a7c72a01f656f9e740c0b75dcd970576de09402a1893f4ad9fa",
+  "notes": "Automatic smooth/stable quality tuning, manual quality override, and three fullscreen display modes. Core-only incremental update; Runtime, scrcpy/ADB and Driver Bank v1.6.0 are reused.",
+  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.16/MobileConnector-UpdateManifest-v4.8.16.json"
 }
