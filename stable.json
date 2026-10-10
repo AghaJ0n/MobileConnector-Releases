@@ -1,7 +1,7 @@
 {
-  "version": "4.8.17",
-  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.17/MobileConnector-Setup-v4.8.17.exe",
-  "sha256": "6fd2aa1d93f63fda45e048f59c7daae02eceeff337a7eca4af2b2d0c32953929",
-  "notes": "Polished interactive Settings cards with clearer separation, segmented choices and modern toggles. Automatic smooth/stable quality tuning and three fullscreen display modes remain available. Core-only incremental update; Runtime, scrcpy/ADB and Driver Bank v1.6.0 are reused.",
-  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.17/MobileConnector-UpdateManifest-v4.8.17.json"
+  "version": "4.8.18",
+  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.18/MobileConnector-Setup-v4.8.18.exe",
+  "sha256": "ca56eb90a1f7a00272e0a8681b62ffc94c667338714425f07d57a060b95cba19",
+  "notes": "Settings window now supports Minimize/Maximize, selected segmented choices are visually explicit, and manual quality labels are Persian. Existing polished cards, automatic smooth/stable quality tuning and three fullscreen display modes remain available. Core-only incremental update; Runtime, scrcpy/ADB and Driver Bank v1.6.0 are reused.",
+  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.18/MobileConnector-UpdateManifest-v4.8.18.json"
 }
