@@ -1,7 +1,7 @@
 {
-  "version": "4.8.12",
-  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.12/MobileConnector-Setup-v4.8.12.exe",
-  "sha256": "fe51b60feba9effd1454f90a5d40421b6e0a53d4806898e5e6ec733c89624d03",
-  "notes": "Core-only incremental update test with visible progress, integrity verification and rollback support. Driver Bank v1.6.0.",
-  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.12/MobileConnector-UpdateManifest-v4.8.12.json"
+  "version": "4.8.14",
+  "downloadUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.14/MobileConnector-Setup-v4.8.14.exe",
+  "sha256": "bddcaae991f7f93d87f22cc58009604236c92cc44ee388b11cfae63bb042a11e",
+  "notes": "Unified application/taskbar/shortcut icon and updater file-lock repair. Incremental update channel remains enabled. Driver Bank v1.6.0.",
+  "incrementalManifestUrl": "https://github.com/AghaJ0n/MobileConnector-Releases/releases/download/v4.8.14/MobileConnector-UpdateManifest-v4.8.14.json"
 }
